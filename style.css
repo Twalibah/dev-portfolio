@@ -4,6 +4,7 @@ h2{
 }
 h1{
     color: rgb(58, 127, 129);
+    text-align: center;
 }
 body{
     color: rgb(23, 47, 48);
@@ -44,8 +45,21 @@ body{
     
 }
 
-.half-w3{
-    width: 50%;
-    padding: 5%;
+.area-no{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px 20px;
+    box-shadow: 10px 10px 40px rgb(44, 53, 50);
     text-align: justify;
+    border-left: 5px solid aquamarine;
+    
+}
+.third-one{
+    background-image: url(sec-one.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align:center;
 }
