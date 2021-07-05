@@ -36,3 +36,18 @@ section{
     background-repeat: no-repeat;
     background-size: 30%;
 }
+.sec-one{
+    background-image: url(sec-one.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    
+}
+.half-width1{
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+}
+.half-width1 img{
+    width: 100%;
+}
