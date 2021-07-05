@@ -1,4 +1,38 @@
+h2{
+    font-family: 'Festive', cursive;
+    color: rgb(58, 127, 129);
+}
 h1{
-    color: rgb(15, 87, 87);
-    background-color: beige;
+    color: rgb(58, 127, 129);
+}
+body{
+    color: rgb(23, 47, 48);
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+.headline{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(58, 112, 112), rgb(190, 211, 211) ); 
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: aquamarine;   
+}
+.top{
+    background-image: url(top.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
 }
